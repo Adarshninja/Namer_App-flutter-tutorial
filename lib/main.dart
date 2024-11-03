@@ -6,6 +6,7 @@ import 'package:provider/provider.dart';
 void main() {
   runApp(MyApp());
 }
+// this is stateless widget use stl hit enter to get this widget
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
